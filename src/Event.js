@@ -44,11 +44,11 @@ export default function Event() {
             'location': '800 Howard St., San Francisco, CA 94103',
             'description': 'Really great refreshments',
             'start': {
-              'dateTime': '2021-12-16T16:35:00+05:30',
+              'dateTime': '2021-12-16T20:30:00+05:30',
               'timeZone': 'Asia/Kolkata'
             },
             'end': {
-              'dateTime': '2021-12-16T17:00:00+05:30',
+              'dateTime': '2021-12-16T21:30:00+05:30',
               'timeZone': 'Asia/Kolkata'
             },
             'conferenceData': {
